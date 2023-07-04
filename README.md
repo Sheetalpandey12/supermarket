@@ -1,9 +1,15 @@
 # supermarket
 Start product
+
 npm run start
+
 Input is =>
+
 details : apple 6Kg, Orange 2Kg, Potato 4Kg, Tomato 3Kg, COwmilk 8Lt, Gouda 2Kg
+
+
 OutPut is =>
+
 {
     "item": {
         "apple": {
